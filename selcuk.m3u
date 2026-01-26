@@ -32,6 +32,9 @@ https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-id="ssport" tvg-name="S Sport PLUS 1" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Selcuk TV",S Sport PLUS 1
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/sssplus1/playlist.m3u8
+#EXTINF:-1 tvg-id="ssport" tvg-name="S Sport PLUS 2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Selcuk TV",S Sport PLUS 2
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ee086cf9635f72.click/live/sssplus2/playlist.m3u8
 #EXTINF:-1 tvg-id="tivibu1" tvg-name="Tivibu Spor 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Selcuk TV",Tivibu Spor 1
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcuktivibuspor1/playlist.m3u8
